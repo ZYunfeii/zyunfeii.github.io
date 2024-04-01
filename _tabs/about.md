@@ -30,20 +30,20 @@ order: 4
   <tbody>
      <tr>
       <td><a href="https://github.com/linkall-labs/vanus"><b>Vanus</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/stars/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/forks/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
     </tr>
  </tbody>
  
  <tbody>
      <tr>
       <td><a href="https://github.com/ZYunfeii/UAV_Obstacle_Avoiding_DRL"><b>UAV_Obstacle_Avoiding_DRL</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/stars/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/forks/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ZYunfeii/UAV_Obstacle_Avoiding_DRL?style=flat-square&labelColor=343b41"/></td>
     </tr>
  </tbody>
  
