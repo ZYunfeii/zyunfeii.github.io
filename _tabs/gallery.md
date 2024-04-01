@@ -23,7 +23,7 @@ order: 5
 
 <div class="gallery">
     <img src="{{site.url}}/assets/images/DSCF3374.jpg" alt="Photo 1">
-    <img src="{{site.url}}/assets/images/IMG_4536.jpg" alt="Photo 2">
+    <img src="{{site.url}}/assets/images/IMG_4536.JPG" alt="Photo 2">
     <img src="{{site.url}}/assets/images/DSCF3450.jpg" alt="Photo 3">
     <img src="{{site.url}}/assets/images/DSCF3488.jpg" alt="Photo 4">
     <img src="{{site.url}}/assets/images/DSCF3745.jpg" alt="Photo 5">
