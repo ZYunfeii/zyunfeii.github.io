@@ -1,5 +1,6 @@
 ---
-layout: categories
+layout: page
 icon: fas fa-stream
 order: 1
 ---
+
