@@ -1,3 +1,8 @@
+---
+layout: post
+---
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,3 +18,16 @@
         }
     </style>
 </head>
+
+<body>
+{{ page.content }}
+<div class="gallery">
+    {% for url in page.urls %}
+    <img src="{{ url }}" alt="Photo {{ forloop.index }}">
+    {% endfor %}
+    
+    <!-- 更多图片 -->
+</div>
+
+</body>
+</html>
