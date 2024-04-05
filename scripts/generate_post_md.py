@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# demo: python .\generate_post_md.py --title 测试title --category 分类1 --tag Tag1 --urls url1 url2 --column 2
 import argparse
 import datetime
 
