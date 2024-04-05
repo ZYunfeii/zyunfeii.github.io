@@ -6,7 +6,7 @@ import datetime
 def generate_markdown_file(title, category, tag, urls, column):
     # 根据当前日期和标题生成文件名
     file_name_date = datetime.date.today().strftime("%Y-%m-%d")
-    filename = f"../_posts/{file_name_date}-{title}.md"
+    filename = f"./_posts/{file_name_date}-{title}.md"
 
     post_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
